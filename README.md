@@ -185,7 +185,7 @@ FUTURE_DS_02/
 │   └── telco_cleaned.csv
 │
 ├── notebooks/
-│   └── churn_analysis.ipynb
+│   └── customer_retention_and_churn_analysis.ipynb
 │
 └── README.md
 ```
